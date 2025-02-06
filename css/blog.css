@@ -1,3 +1,8 @@
-div{
-    background-color:blueviolet;
+#light{
+    color:blueviolet;
+}
+
+
+.dark{
+ background-color: antiquewhite;
 }
